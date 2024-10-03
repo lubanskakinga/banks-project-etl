@@ -74,3 +74,14 @@ Particulars of the code to be made have been shared below.
     </tr>
   </tbody>
 </table>
+
+## Task 1: Logging function 
+Write the function to log the progress of the code, <code>log_progress()</code>. 
+
+The function accepts the message to be logged and enters it to a text file <code>code_log.txt</code>.
+
+The format to be used for logging must have the syntax:
+'''
+<tile_stame> : <message>
+'''
+
