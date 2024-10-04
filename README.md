@@ -75,7 +75,7 @@ Particulars of the code to be made have been shared below.
   </tbody>
 </table>
 
-## Task 1: Logging function 
+## Task 1 : Logging function 
 Write the function to log the progress of the code, ```log_progress()```. 
 
 The function accepts the message to be logged and enters it to a text file ```code_log.txt```.
