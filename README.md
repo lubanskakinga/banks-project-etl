@@ -99,10 +99,6 @@ You must associate the correct log entries with each of the executed function ca
       <td>Preliminaries complete. Initiating ETL process</td>
     </tr>
     <tr>
-      <td>Declaring known values</td>
-      <td>Preliminaries complete. Initiating ETL process</td>
-    </tr>
-    <tr>
       <td>Call extract() function</td>
       <td>Data extraction complete. Initiating Transformation process</td>
     </tr>
