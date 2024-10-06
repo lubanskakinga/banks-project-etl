@@ -72,7 +72,7 @@ def extract_from_json(file_to_process):
 
 To extract from an ```XML```  file, you need first to parse the data from the file using the ```ElementTree```  function. You can then extract relevant information from this data and append it to a pandas dataframe as follows.
 
-    Note: You must know the headers of the extracted data to write this function. In this data, you extract "name", "height", and "weight" headers for different persons.
+<bold>Note<bold>: You must know the headers of the extracted data to write this function. In this data, you extract "name", "height", and "weight" headers for different persons.
 
 This function can be written as follows:
 
